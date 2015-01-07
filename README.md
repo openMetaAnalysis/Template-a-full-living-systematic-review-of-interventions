@@ -21,6 +21,7 @@ Text files:
 Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/) to upload these from your computer):
 * [Forest plots](../../tree/master/forest-plots/)
 * [GRADE Profiles](../../tree/master/GRADE-Profiles)
+* [Metaregression plots](../../tree/master/metagression) (optional)
 
 [Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
 
