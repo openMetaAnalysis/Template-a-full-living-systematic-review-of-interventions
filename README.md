@@ -4,7 +4,7 @@
 * Or go to http://openmetaanalysis.github.io/
 
 **If you want to comment on this meta-analysis:**
-* Contact a [contributor](../../network/members) is you need access
+* Contact a [contributor](../../network/members) if you need access
 * Open an [issue](../../issues/new)
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
