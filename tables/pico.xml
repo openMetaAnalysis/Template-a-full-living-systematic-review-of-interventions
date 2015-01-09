@@ -3,9 +3,9 @@
 <!-- start of a new study -->
 <study>
 <citation year="1992" pmid="1623756" nct="" journal_abbrev="Chest">Tuchschmidt</citation>
-<design>randomized controlled trial</design>
+<design>Randomized controlled trial</design>
 <patients total="51">septic shock
-<bullet>Computerized random number generator</bullet>
+<bullet>Randomization details not provided</bullet>
 <bullet>Age 51 years (mean)</bullet>
 <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
 <bullet>Lactate 4.9 mmol/L (mean)</bullet>
@@ -28,144 +28,177 @@
 <!-- start of a new study -->
 <study>
 <citation year="2001" pmid="11794169" nct="" journal_abbrev="N Engl J Med">Rivers</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="263">Septic shock or sepsis
+<bullet>Randomization computer-generated blocks two to eight</bullet>
+<bullet>Age 66 years (mean)</bullet>
+<bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
+<bullet>Lactate 7 mmol/L (mean)</bullet>
+<bullet>Bacteremia 35.15%</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>% transfused</bullet>
-<bullet>% antibiotics at X hours</bullet>
-<bullet>X liters at X hours</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: 64.1%</bullet>
+<bullet>Antibiotic adminstration:82.3%</bullet>
+<bullet>Fluid replacement: 5L</bullet>
 </intervention>
-<comparison>usual care
-<bullet>% transfused</bullet>
-<bullet>% antibiotics at X hours</bullet>
-<bullet>X liters at X hours</bullet>
+<comparison>Usual care
+<bullet>Transfused: 18.5%</bullet>
+<bullet>Antibiotic adminstration: 92.4%</bullet>
+<bullet>Fluid replacement: 3.4L</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality in hospital</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2006" pmid="17117128" nct="" journal_abbrev="Shock">Lin</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="224">septic shock
+<bullet>Randomization details not provided</bullet>
+<bullet>Age 68 years (mean)</bullet>
+<bullet>Mean blood pressure 56 mmHg (mean)</bullet>
+<bullet>Lactate 71 mmol/L (mean)</bullet>
+<bullet>Bacteremia 13%</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: 36%</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: 5180 mL</bullet>
 </intervention>
-<comparison>usual care
+<comparison>Usual care
+<bullet>Transfused: 37%</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: 5011 mL</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality in hospital</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2007" pmid="17207356" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">He</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="203">Septic shock
+<bullet>Randomization details not provided</bullet>
+<bullet>Age unknown</bullet>
+<bullet>Mean blood pressure unknown</bullet>
+<bullet>Lactate unknown</bullet>
+<bullet>Bacteremia unknown</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </intervention>
-<comparison>usual care
+<comparison>Usual care
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality in hospital</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2007" pmid="18159013" nct="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao">Chen</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="123">septic shock
+<bullet>Randomization details not provided</bullet>
+<bullet>Age 51 years (mean)</bullet>
+<bullet>Mean blood pressure unknown</bullet>
+<bullet>Lactate 5.5 mmol/L (mean)</bullet>
+<bullet>Bacteremia unknown</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </intervention>
-<comparison>usual care
+<comparison>Usual care
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality at ICU</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2010" pmid="20594464" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="51">septic shock
+<bullet>Randomization details not provided</bullet>
+<bullet>Age 51 years (mean)</bullet>
+<bullet>Mean blood pressure 74 mmHg (mean)</bullet>
+<bullet>Lactate 4.9 mmol/L (mean)</bullet>
+<bullet>Bacteremia 57%</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </intervention>
-<comparison>usual care
+<comparison>Usual care
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality at 14 days</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2014" pmid="24635773" nct="" journal_abbrev="N Engl J Med">ProCESS</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="439">septic shock
+<bullet>Randomization computer generated</bullet>
+<bullet>Age 60 years (mean)</bullet>
+<bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
+<bullet>Lactate > 4.9 mmol/L (mean)</bullet>
+<bullet>Bacteremia 30%</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: 14%</bullet>
+<bullet>Antibiotic adminstration: 98% by six hours</bullet>
+<bullet>Fluid replacement: 4458 mL over 72 hours</bullet>
 </intervention>
-<comparison>usual care
+<comparison>Usual care
+<bullet>Transfused: 8%</bullet>
+<bullet>Antibiotic adminstration: 97% by six hours</bullet>
+<bullet>Fluid replacement: 4354 mL over 72 hours</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality in hospital</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2014" pmid="25272316" nct="" journal_abbrev="N Engl J Med">ARISE</citation>
-<design>randomized controlled trial</design>
-<patients total="__">septic shock
-<bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<design>Randomized controlled trial</design>
+<patients total="1600">septic shock
+<bullet>Randomization centrally generated</bullet>
+<bullet>Age 62.9 years (mean)</bullet>
+<bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
+<bullet>Lactate 4.9 mmol/L (mean)</bullet>
+<bullet>Bacteremia 38%</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: 13.6%</bullet>
+<bullet>Antibiotic adminstration: 100% by 2.8 hrs</bullet>
+<bullet>Fluid replacement: 1.9L</bullet>
 </intervention>
-<comparison>usual care
+<comparison>Usual care
+<bullet>Transfused: 7%</bullet>
+<bullet>Antibiotic adminstration: 100% by 2.7 hrs</bullet>
+<bullet>Fluid replacement: 1.7L</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>Mortality 90 days</bullet>
+<bullet type='secondary'>Mortality in hospital (used in current meta-analysis)</bullet>
 </outcome>
 </study>
 <!-- Leave this bottom line -->
