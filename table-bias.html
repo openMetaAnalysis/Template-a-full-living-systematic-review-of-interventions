@@ -36,21 +36,24 @@
 //Page history and edit and issues
 var pagename = location.pathname.split('/').slice(-1);
 if (pagename.toString().length < 1){pagename = "index.html"}
+document.write("<div style='text-align:center'><a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/gh-pages/tables/bias.xml'>Edit source</a> (collaboratively edit with <a href=\"https://kobra.io\">Kobra</a>) - <a href='https://github.com/openMetaAnalysis/" + repo_dir + "/commits/gh-pages/tables/bias.xml'>Source history</a></div>")
 document.write("<div style='text-align:center'><a href='https://github.com/openMetaAnalysis/" + repo_dir + "/issues?q=is%3Aopen+is%3Aissue'>Issues and comments</a></div>")
-document.write("<div style='text-align:center'><a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/gh-pages/tables/bias.xml'>Edit source</a> - <a href='https://github.com/openMetaAnalysis/" + repo_dir + "/commits/gh-pages/tables/bias.xml'>Source history</a></div>")
 </script>
 </div>
+
 <script src="javascripts/scale.fix.js"></script>
+<!--Google tracking-->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-56740469-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
 </script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-56740469-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
+
 <div id="tip" style="display:none"></div>
 </body>
 </html>
