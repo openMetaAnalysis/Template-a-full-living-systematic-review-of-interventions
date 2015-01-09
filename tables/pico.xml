@@ -6,18 +6,22 @@
 <design>randomized controlled trial</design>
 <patients total="__">septic shock
 <bullet>Computerized random number generator</bullet>
-<bullet>Mean age __ months</bullet>
+<bullet>Age 51 years (mean)</bullet>
+<bullet>Lactate 4.9 mmol/L (mean)</bullet>
+<bullet>Mean blood pressure 74 mmHg (mean)</bullet>
 </patients>
-<intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<intervention>Early goal-directed therapy
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </intervention>
 <comparison>usual care
+<bullet>% transfused</bullet>
+<bullet>% antibiotics at X hours</bullet>
+<bullet>X liters at X hours</bullet>
 </comparison>
 <outcome>
-<bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
-<bullet type='secondary'>Criteria used or how measured?</bullet>
+<bullet type='primary'>mortality at ___</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
@@ -29,11 +33,14 @@
 <bullet>Mean age __ months</bullet>
 </patients>
 <intervention>early goal-directed therapy
-<bullet>Amount?</bullet>
-<bullet>Frequency?</bullet>
-<bullet>Duration?</bullet>
+<bullet>% transfused</bullet>
+<bullet>% antibiotics at X hours</bullet>
+<bullet>X liters at X hours</bullet>
 </intervention>
 <comparison>usual care
+<bullet>% transfused</bullet>
+<bullet>% antibiotics at X hours</bullet>
+<bullet>X liters at X hours</bullet>
 </comparison>
 <outcome>
 <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality measured how and when</bullet>
