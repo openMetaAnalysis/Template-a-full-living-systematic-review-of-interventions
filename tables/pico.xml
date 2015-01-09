@@ -4,24 +4,25 @@
 <study>
 <citation year="1992" pmid="1623756" nct="" journal_abbrev="Chest">Tuchschmidt</citation>
 <design>randomized controlled trial</design>
-<patients total="__">septic shock
+<patients total="51">septic shock
 <bullet>Computerized random number generator</bullet>
 <bullet>Age 51 years (mean)</bullet>
-<bullet>Lactate 4.9 mmol/L (mean)</bullet>
 <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
+<bullet>Lactate 4.9 mmol/L (mean)</bullet>
+<bullet>Bacteremia 57%</bullet>
 </patients>
 <intervention>Early goal-directed therapy
 <bullet>Transfused: details not reported</bullet>
 <bullet>Antibiotic adminstration: details not reported</bullet>
 <bullet>Fluid replacement: details not reported</bullet>
 </intervention>
-<comparison>usual care
-<bullet>% transfused</bullet>
-<bullet>% antibiotics at X hours</bullet>
-<bullet>X liters at X hours</bullet>
+<comparison>Usual care
+<bullet>Transfused: details not reported</bullet>
+<bullet>Antibiotic adminstration: details not reported</bullet>
+<bullet>Fluid replacement: details not reported</bullet>
 </comparison>
 <outcome>
-<bullet type='primary'>mortality at ___</bullet>
+<bullet type='primary'>Mortality at 14 days</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
