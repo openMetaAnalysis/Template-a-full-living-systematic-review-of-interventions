@@ -5,7 +5,7 @@
   <citation year="1992" pmid="1623756" nct="" journal_abbrev="Chest">Tuchschmidt</citation>
   <design>Randomized controlled trial</design>
   <patients total="51">
-    <description>Septic shock</description>
+    <description>septic shock</description>
     <bullet>Randomization details not provided</bullet>
     <bullet>Age 51 years (mean)</bullet>
     <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
@@ -31,7 +31,7 @@
   <citation year="2001" pmid="11794169" nct="" journal_abbrev="N Engl J Med">Rivers</citation>
   <design>Randomized controlled trial</design>
   <patients total="263">
-    <description>Septic shock or sepsis</description>
+    <description>septic shock or sepsis</description>
     <bullet>Randomization with computer-generated blocks</bullet>
     <bullet>Age 66 years (mean)</bullet>
     <bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
@@ -57,7 +57,7 @@
   <citation year="2006" pmid="17117128" nct="" journal_abbrev="Shock">Lin</citation>
   <design>Randomized controlled trial</design>
   <patients total="224">
-    <description>Septic shock</description>
+    <description>septic shock</description>
     <bullet>Randomization details not provided</bullet>
     <bullet>Age 68 years (mean)</bullet>
     <bullet>Mean ateral pressure 56 mmHg (mean)</bullet>
@@ -83,7 +83,7 @@
   <citation year="2007" pmid="17207356" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">He</citation>
   <design>Randomized controlled trial</design>
   <patients total="203">
-    <description>Septic shock</description>
+    <description>septic shock</description>
     <bullet>Randomization details not provided</bullet>
     <bullet>Age unknown</bullet>
     <bullet>Mean blood pressure unknown</bullet>
@@ -109,7 +109,7 @@
 <citation year="2007" pmid="18159013" nct="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao">Chen</citation>
 <design>Randomized controlled trial</design>
 <patients total="123">
-  <description>Severe sepsis</description>
+  <description>severe sepsis</description>
   <bullet>Randomization details not provided</bullet>
   <bullet>Age 51 years (mean)</bullet>
   <bullet>Mean blood pressure unknown</bullet>
@@ -135,7 +135,7 @@
   <citation year="2010" pmid="20594464" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early Goal-Directed Therapy Collaborative Group of Zhejiang Provinc</citation>
   <design>Randomized controlled trial</design>
   <patients total="51">
-    <description>Severe sepsis or septic shock</description>
+    <description>severe sepsis or septic shock</description>
     <bullet>Randomization details not provided</bullet>
     <bullet>Age 51 years (mean)</bullet>
     <bullet>Mean arterial pressure 74 mmHg (mean)</bullet>
@@ -161,7 +161,7 @@
   <citation year="2014" pmid="24635773" nct="" journal_abbrev="N Engl J Med">ProCESS</citation>
   <design>Randomized controlled trial</design>
   <patients total="439">
-    <description>Septic shock</description>
+    <description>septic shock</description>
     <bullet>Randomization computer generated</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
@@ -187,7 +187,7 @@
   <citation year="2014" pmid="25272316" nct="" journal_abbrev="N Engl J Med">ARISE</citation>
   <design>Randomized controlled trial</design>
   <patients total="1600">
-    <description>Septic shock</description>
+    <description>septic shock</description>
     <bullet>Randomization centrally generated</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
