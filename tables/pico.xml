@@ -165,7 +165,7 @@
     <bullet>Randomization computer generated</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
-    <bullet>Lactate > 4.9 mmol/L (mean)</bullet>
+    <bullet>Lactate 4.9 mmol/L (mean)</bullet>
     <bullet>Bacteremia 30%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
@@ -191,7 +191,7 @@
     <bullet>Randomization centrally generated</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
-    <bullet>Lactate 4.9 mmol/L (mean)</bullet>
+    <bullet>Lactate 6.6 mmol/L (mean)</bullet>
     <bullet>Bacteremia 38%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
