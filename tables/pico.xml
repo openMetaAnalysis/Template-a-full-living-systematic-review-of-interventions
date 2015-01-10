@@ -158,7 +158,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24635773" nct="" journal_abbrev="N Engl J Med">ProCESS</citation>
+  <citation year="2014" pmid="24635773" nct="NCT00510835" journal_abbrev="N Engl J Med">ProCESS</citation>
   <design>Randomized controlled trial</design>
   <patients total="439">
     <description>septic shock</description>
@@ -184,7 +184,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="25272316" nct="" journal_abbrev="N Engl J Med">ARISE</citation>
+  <citation year="2014" pmid="25272316" nct="NCT00975793" journal_abbrev="N Engl J Med">ARISE</citation>
   <design>Randomized controlled trial</design>
   <patients total="1591">
     <description>septic shock</description>
