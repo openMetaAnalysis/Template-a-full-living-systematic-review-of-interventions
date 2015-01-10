@@ -4,7 +4,7 @@
 <study>
 <citation year="1992" pmid="1623756" nct="" journal_abbrev="Chest">Tuchschmidt</citation>
 <design>Randomized controlled trial</design>
-<patients total="51">septic shock
+<patients total="51">Septic shock
 <bullet>Randomization details not provided</bullet>
 <bullet>Age 51 years (mean)</bullet>
 <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
@@ -30,21 +30,21 @@
 <citation year="2001" pmid="11794169" nct="" journal_abbrev="N Engl J Med">Rivers</citation>
 <design>Randomized controlled trial</design>
 <patients total="263">Septic shock or sepsis
-<bullet>Randomization computer-generated blocks two to eight</bullet>
+<bullet>Randomization with computer-generated blocks</bullet>
 <bullet>Age 66 years (mean)</bullet>
 <bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
-<bullet>Lactate 7 mmol/L (mean)</bullet>
-<bullet>Bacteremia 35.15%</bullet>
+<bullet>Lactate 7.4 mmol/L (mean)</bullet>
+<bullet>Bacteremia 35%</bullet>
 </patients>
 <intervention>Early goal-directed therapy
-<bullet>Transfused: 64.1%</bullet>
-<bullet>Antibiotic adminstration: 82.3% over six hours</bullet>
-<bullet>Fluid replacement: 5L</bullet>
+<bullet>Transfused: 64%</bullet>
+<bullet>Antibiotic adminstration: 82% over six hours</bullet>
+<bullet>Fluid replacement: 4981 mL over 6 hours</bullet>
 </intervention>
 <comparison>Usual care
-<bullet>Transfused: 18.5%</bullet>
-<bullet>Antibiotic adminstration: 92.4% over six hours</bullet>
-<bullet>Fluid replacement: 3.4L</bullet>
+<bullet>Transfused: 19%</bullet>
+<bullet>Antibiotic adminstration: 92% over six hours</bullet>
+<bullet>Fluid replacement: 3499 mL over 6 hours</bullet>
 </comparison>
 <outcome>
 <bullet type='primary'>Mortality in hospital</bullet>
@@ -54,22 +54,22 @@
 <study>
 <citation year="2006" pmid="17117128" nct="" journal_abbrev="Shock">Lin</citation>
 <design>Randomized controlled trial</design>
-<patients total="224">septic shock
+<patients total="224">Septic shock
 <bullet>Randomization details not provided</bullet>
 <bullet>Age 68 years (mean)</bullet>
-<bullet>Mean blood pressure 56 mmHg (mean)</bullet>
-<bullet>Lactate 71 mmol/L (mean)</bullet>
+<bullet>Mean ateral pressure 56 mmHg (mean)</bullet>
+<bullet>Lactate 7.1 mmol/L (mean)</bullet>
 <bullet>Bacteremia 13%</bullet>
 </patients>
 <intervention>Early goal-directed therapy
 <bullet>Transfused: 36%</bullet>
 <bullet>Antibiotic adminstration: details not reported</bullet>
-<bullet>Fluid replacement: 5180 mL</bullet>
+<bullet>Fluid replacement: 5180 mL during the period of persistent shock</bullet>
 </intervention>
 <comparison>Usual care
 <bullet>Transfused: 37%</bullet>
 <bullet>Antibiotic adminstration: details not reported</bullet>
-<bullet>Fluid replacement: 5011 mL</bullet>
+<bullet>Fluid replacement: 5011 mL during the period of persistent shock</bullet>
 </comparison>
 <outcome>
 <bullet type='primary'>Mortality in hospital</bullet>
@@ -104,7 +104,7 @@
 <study>
 <citation year="2007" pmid="18159013" nct="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao">Chen</citation>
 <design>Randomized controlled trial</design>
-<patients total="123">septic shock
+<patients total="123">Severe sepsis
 <bullet>Randomization details not provided</bullet>
 <bullet>Age 51 years (mean)</bullet>
 <bullet>Mean blood pressure unknown</bullet>
@@ -127,12 +127,12 @@
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2010" pmid="20594464" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early</citation>
+<citation year="2010" pmid="20594464" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early Goal-Directed Therapy Collaborative Group of Zhejiang Provinc</citation>
 <design>Randomized controlled trial</design>
-<patients total="51">septic shock
+<patients total="51">Severe sepsis or septic shock
 <bullet>Randomization details not provided</bullet>
 <bullet>Age 51 years (mean)</bullet>
-<bullet>Mean blood pressure 74 mmHg (mean)</bullet>
+<bullet>Mean arterial pressure 74 mmHg (mean)</bullet>
 <bullet>Lactate 4.9 mmol/L (mean)</bullet>
 <bullet>Bacteremia 57%</bullet>
 </patients>
@@ -154,7 +154,7 @@
 <study>
 <citation year="2014" pmid="24635773" nct="" journal_abbrev="N Engl J Med">ProCESS</citation>
 <design>Randomized controlled trial</design>
-<patients total="439">septic shock
+<patients total="439">Septic shock
 <bullet>Randomization computer generated</bullet>
 <bullet>Age 60 years (mean)</bullet>
 <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
@@ -179,7 +179,7 @@
 <study>
 <citation year="2014" pmid="25272316" nct="" journal_abbrev="N Engl J Med">ARISE</citation>
 <design>Randomized controlled trial</design>
-<patients total="1600">septic shock
+<patients total="1600">Septic shock
 <bullet>Randomization centrally generated</bullet>
 <bullet>Age 62.9 years (mean)</bullet>
 <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
