@@ -186,7 +186,7 @@
 <study>
   <citation year="2014" pmid="25272316" nct="" journal_abbrev="N Engl J Med">ARISE</citation>
   <design>Randomized controlled trial</design>
-  <patients total="1600">
+  <patients total="1591">
     <description>septic shock</description>
     <bullet>Randomization centrally generated</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
