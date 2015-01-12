@@ -40,13 +40,13 @@
   </patients>
   <intervention>Early goal-directed therapy
     <bullet>Blood transfusion: 64%</bullet>
-    <bullet>Antibiotic administration: 82% over six hours</bullet>
-    <bullet>Fluid replacement: 4981 mL over 6 hours</bullet>
+    <bullet>Antibiotic administration: 86% over six hours</bullet>
+    <bullet>Fluid replacement: 4981 mL over 6 hours (may include pre-randomization)</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 19%</bullet>
     <bullet>Antibiotic administration: 92% over six hours</bullet>
-    <bullet>Fluid replacement: 3499 mL over 6 hours</bullet>
+    <bullet>Fluid replacement: 3499 mL over 6 hours (may include pre-randomization)</bullet>
   </comparison>
   <outcome>
     <bullet type='primary'>Mortality in hospital</bullet>
