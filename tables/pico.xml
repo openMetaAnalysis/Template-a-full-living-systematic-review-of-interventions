@@ -111,9 +111,9 @@
 <patients total="123">
   <description>severe sepsis</description>
   <bullet>Randomization details not provided</bullet>
-  <bullet>Age 52 years (mean)</bullet>
+  <bullet>Age unknown</bullet>
   <bullet>Mean blood pressure unknown</bullet>
-  <bullet>Lactate 5.5 mmol/L (mean)</bullet>
+  <bullet>Lactate unknown</bullet>
   <bullet>Bacteremia unknown</bullet>
 </patients>
 <intervention>Early goal-directed therapy
