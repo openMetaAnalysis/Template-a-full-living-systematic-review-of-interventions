@@ -111,7 +111,7 @@
 <patients total="123">
   <description>severe sepsis</description>
   <bullet>Randomization details not provided</bullet>
-  <bullet>Age 51 years (mean)</bullet>
+  <bullet>Age 52 years (mean)</bullet>
   <bullet>Mean blood pressure unknown</bullet>
   <bullet>Lactate 5.5 mmol/L (mean)</bullet>
   <bullet>Bacteremia unknown</bullet>
@@ -134,12 +134,12 @@
 <study>
   <citation year="2010" pmid="20594464" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early Goal-Directed Therapy Collaborative Group of Zhejiang Provinc</citation>
   <design>Randomized controlled trial</design>
-  <patients total="51">
+  <patients total="303">
     <description>severe sepsis or septic shock</description>
     <bullet>Randomization details not provided</bullet>
-    <bullet>Age 51 years (mean)</bullet>
+    <bullet>Age 68 years (mean)</bullet>
     <bullet>Mean arterial pressure 74 mmHg (mean)</bullet>
-    <bullet>Lactate 4.9 mmol/L (mean)</bullet>
+    <bullet>Lactate 7.6 mmol/L (mean)</bullet>
     <bullet>Bacteremia 57%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
