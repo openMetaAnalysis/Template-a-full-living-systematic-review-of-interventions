@@ -13,13 +13,13 @@
     <bullet>Bacteremia 57%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: details not reported</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: details not reported</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: details not reported</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: details not reported</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
   </comparison>
   <outcome>
@@ -31,7 +31,7 @@
   <citation year="2001" pmid="11794169" nct="" journal_abbrev="N Engl J Med">Rivers</citation>
   <design>Randomized controlled trial</design>
   <patients total="263">
-    <description>septic shock or sepsis</description>
+    <description>sepsis or septic shock. Hypotension or serum lactate 4 mmol/L or more after 20 to 30 ml per kilogram of body weight over 30 minutes</description>
     <bullet>Randomization with computer-generated blocks</bullet>
     <bullet>Age 66 years (mean)</bullet>
     <bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
@@ -39,13 +39,13 @@
     <bullet>Bacteremia 35%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: 64%</bullet>
-    <bullet>Antibiotic adminstration: 82% over six hours</bullet>
+    <bullet>Blood transfusion: 64%</bullet>
+    <bullet>Antibiotic administration: 82% over six hours</bullet>
     <bullet>Fluid replacement: 4981 mL over 6 hours</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: 19%</bullet>
-    <bullet>Antibiotic adminstration: 92% over six hours</bullet>
+    <bullet>Blood transfusion: 19%</bullet>
+    <bullet>Antibiotic administration: 92% over six hours</bullet>
     <bullet>Fluid replacement: 3499 mL over 6 hours</bullet>
   </comparison>
   <outcome>
@@ -65,13 +65,13 @@
     <bullet>Bacteremia 13%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: 36%</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: 36%</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: 5180 mL during the period of persistent shock</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: 37%</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: 37%</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: 5011 mL during the period of persistent shock</bullet>
   </comparison>
   <outcome>
@@ -91,13 +91,13 @@
     <bullet>Bacteremia unknown</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: details not reported</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: details not reported</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: details not reported</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: details not reported</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
   </comparison>
   <outcome>
@@ -117,13 +117,13 @@
   <bullet>Bacteremia unknown</bullet>
 </patients>
 <intervention>Early goal-directed therapy
-  <bullet>Transfused: details not reported</bullet>
-  <bullet>Antibiotic adminstration: details not reported</bullet>
+  <bullet>Blood transfusion: details not reported</bullet>
+  <bullet>Antibiotic administration: details not reported</bullet>
   <bullet>Fluid replacement: details not reported</bullet>
 </intervention>
 <comparison>Usual care
-  <bullet>Transfused: details not reported</bullet>
-  <bullet>Antibiotic adminstration: details not reported</bullet>
+  <bullet>Blood transfusion: details not reported</bullet>
+  <bullet>Antibiotic administration: details not reported</bullet>
   <bullet>Fluid replacement: details not reported</bullet>
 </comparison>
 <outcome>
@@ -143,13 +143,13 @@
     <bullet>Bacteremia 57%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: details not reported</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: details not reported</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: details not reported</bullet>
-    <bullet>Antibiotic adminstration: details not reported</bullet>
+    <bullet>Blood transfusion: details not reported</bullet>
+    <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
   </comparison>
   <outcome>
@@ -161,7 +161,7 @@
   <citation year="2014" pmid="24635773" nct="NCT00510835" journal_abbrev="N Engl J Med">ProCESS</citation>
   <design>Randomized controlled trial</design>
   <patients total="439">
-    <description>septic shock</description>
+    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 30 minutes</description>
     <bullet>Randomization computer generated</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
@@ -169,14 +169,16 @@
     <bullet>Bacteremia 30%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: 14%</bullet>
-    <bullet>Antibiotic adminstration: 98% by six hours</bullet>
+    <bullet>Blood transfusion: 14%</bullet>
+    <bullet>Antibiotic administration: 98% by six hours</bullet>
     <bullet>Fluid replacement: 4458 mL over 72 hours</bullet>
+    <bullet>Central venous catheterization: 94% 58% (within 72 hours)</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: 8%</bullet>
-    <bullet>Antibiotic adminstration: 97% by six hours</bullet>
+    <bullet>Blood transfusion: 8%</bullet>
+    <bullet>Antibiotic administration: 97% by six hours</bullet>
     <bullet>Fluid replacement: 4354 mL over 72 hours</bullet>
+    <bullet>Central venous catheterization: 58% (within 72 hours)</bullet>
   </comparison>
   <outcome>
   <bullet type='primary'>Mortality in hospital</bullet>
@@ -187,7 +189,7 @@
   <citation year="2014" pmid="25272316" nct="NCT00975793" journal_abbrev="N Engl J Med">ARISE</citation>
   <design>Randomized controlled trial</design>
   <patients total="1591">
-    <description>septic shock</description>
+    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics</description>
     <bullet>Randomization centrally generated</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
@@ -195,14 +197,16 @@
     <bullet>Bacteremia 38%</bullet>
   </patients>
   <intervention>Early goal-directed therapy
-    <bullet>Transfused: 13.6%</bullet>
-    <bullet>Antibiotic adminstration: 100% by 2.8 hrs</bullet>
+    <bullet>Blood transfusion: 13.6%</bullet>
+    <bullet>Antibiotic administration: 100% by 2.8 hrs</bullet>
     <bullet>Fluid replacement: 1964 mL over six hours</bullet>
+    <bullet>Central venous catheterization: 90% (within 6 hours)</bullet>
   </intervention>
   <comparison>Usual care
-    <bullet>Transfused: 7%</bullet>
-    <bullet>Antibiotic adminstration: 100% by 2.7 hrs</bullet>
+    <bullet>Blood transfusion: 7%</bullet>
+    <bullet>Antibiotic administration: 100% by 2.7 hrs</bullet>
     <bullet>Fluid replacement: 1713 mL over six hours</bullet>
+    <bullet>Central venous catheterization: 62% (within 6 hours)</bullet>
   </comparison>
   <outcome>
     <bullet type='primary'>Mortality 90 days</bullet>
