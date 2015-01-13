@@ -20,7 +20,7 @@
   <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting explanation="Protocol not available">Unclear risk</selective_reporting>
-  <other_biases> risk</other_biases>
+  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
 <study>
@@ -31,7 +31,7 @@
   <blinding_assessment explanation="Study stated not blinded although the meta-analysis by Gu (PMID: 25327977) stated low risk.">High risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting explanation="Protocol not available">Unclear risk</selective_reporting>
-  <other_biases> risk</other_biases>
+  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
 <study>
@@ -42,7 +42,7 @@
   <blinding_assessment> risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting explanation="Protocol not available">Unclear risk</selective_reporting>
-  <other_biases> risk</other_biases>
+  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
 <study>
@@ -53,7 +53,7 @@
   <blinding_assessment> risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting explanation="Protocol not available">Unclear risk</selective_reporting>
-  <other_biases> risk</other_biases>
+  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
 <study>
