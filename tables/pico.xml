@@ -8,6 +8,7 @@
     <description>septic shock</description>
     <bullet>Randomization details not provided</bullet>
     <bullet>Age 51 years (mean)</bullet>
+    <bullet>Time lapse presentation to emergency room and randomization: 55 minutes (median)</bullet>
     <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
     <bullet>Bacteremia 57%</bullet>
@@ -163,6 +164,7 @@
   <patients total="439">
     <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 30 minutes</description>
     <bullet>Randomization computer generated</bullet>
+    <bullet>Time lapse presentation to emergency room and randomization: 197 minutes (mean or median not specified)</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
@@ -191,6 +193,7 @@
   <patients total="1591">
     <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics</description>
     <bullet>Randomization centrally generated</bullet>
+    <bullet>Time lapse presentation to emergency room and randomization (includes receiving antbiotics): 168 minutes (median)</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
     <bullet>Lactate 6.6 mmol/L (mean)</bullet>
