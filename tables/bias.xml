@@ -69,7 +69,7 @@
 <!-- start of a new study -->
 <study>
   <citation year="2014" pmid="24635773" nct="NCT00510835" journal_abbrev="N Engl J Med" totalsubjects="439" >ProCESS</citation>
-  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
+  <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people explanation="Could not blind use of SvO2 catheters">High risk</blinding_people>
   <blinding_assessment>Low risk</blinding_assessment>
