@@ -63,7 +63,7 @@
   <blinding_people explanation="Could not blind use of SvO2 catheters">High risk</blinding_people>
   <blinding_assessment>Low risk</blinding_assessment>
   <attrition>Low risk</attrition>
-  <selective_reporting>Low risk</selective_reporting>
+  <selective_reporting explanation="Protocol not available">Unclear risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -71,8 +71,8 @@
   <citation year="2014" pmid="24635773" nct="NCT00510835" journal_abbrev="N Engl J Med" totalsubjects="439" >ProCESS</citation>
   <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
   <allocation> risk</allocation>
-  <blinding_people> risk</blinding_people>
   <blinding_people explanation="Could not blind use of SvO2 catheters">High risk</blinding_people>
+  <blinding_assessment> risk</blinding_assessment>
   <attrition> risk</attrition>
   <selective_reporting>Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
@@ -82,8 +82,8 @@
   <citation year="2014" pmid="25272316" nct="NCT00975793" journal_abbrev="N Engl J Med" totalsubjects="1591" >ARISE</citation>
   <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
   <allocation> risk</allocation>
-  <blinding_people> risk</blinding_people>
   <blinding_people explanation="Could not blind use of SvO2 catheters">High risk</blinding_people>
+  <blinding_assessment> risk</blinding_assessment>
   <attrition> risk</attrition>
   <selective_reporting>Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
