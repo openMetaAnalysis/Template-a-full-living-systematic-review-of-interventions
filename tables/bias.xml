@@ -4,7 +4,7 @@
 <study>
   <citation year="1992" pmid="1623756" nct="" journal_abbrev="Chest" totalsubjects="51" >Tuchschmidt</citation>
   <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
-  <allocation>Unclear risk</allocation>
+  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
   <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
   <blinding_assessment explanation="Blinding of assessors not stated. Unclear impact on outcome.">Unclear risk</blinding_assessment>
   <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
@@ -17,7 +17,7 @@
   <randomization>Low risk</randomization>
   <allocation>Low risk</allocation>
   <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
-  <blinding_assessment explanation="Blinding of assessors not stated. Unclear impact on outcome.">Unclear risk</blinding_assessment>
+  <blinding_assessment explanation="Blinding of assessors not stated; however, unlikely to affect determination of primary outcome.">Low risk</blinding_assessment>
   <attrition>Low risk</attrition>
   <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
   <other_biases>Low risk</other_biases>
