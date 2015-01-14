@@ -80,12 +80,12 @@
 <!-- start of a new study -->
 <study>
   <citation year="2014" pmid="25272316" nct="NCT00975793" journal_abbrev="N Engl J Med" totalsubjects="1591" >ARISE</citation>
-  <randomization explanation="Method of blinding not stated">Unclear risk</randomization>
-  <allocation> risk</allocation>
-  <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
-  <blinding_assessment> risk</blinding_assessment>
-  <attrition> risk</attrition>
-  <selective_reporting> risk</selective_reporting>
+  <randomization explanation"">Low risk</randomization>
+  <allocation>Low risk</allocation>
+   <blinding_people explanation="Could not blind study personnel to use of SvO2 catheters. Unclear is this influences the study's conduct and outcome.">Unclear risk</blinding_people>
+  <blinding_assessment explanation="No statment on blinding, but unlikely to influence the outcome measurement.">Low risk</blinding_assessment>
+  <attrition>Low risk</attrition>
+  <selective_reporting>Low risk</selective_reporting>
   <other_biases>Low risk</other_biases>
 </study>
 <!-- Leave this bottom line -->
