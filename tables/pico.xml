@@ -6,9 +6,7 @@
   <design>Randomized controlled trial</design>
   <patients total="51">
     <description>septic shock</description>
-    <bullet>Randomization details not provided</bullet>
     <bullet>Age 51 years (mean)</bullet>
-    <bullet>Time lapse presentation to emergency room and randomization: 55 minutes (median)</bullet>
     <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
     <bullet>Bacteremia 57%</bullet>
@@ -33,7 +31,7 @@
   <design>Randomized controlled trial</design>
   <patients total="263">
     <description>sepsis or septic shock. Hypotension or serum lactate 4 mmol/L or more after 20 to 30 ml per kilogram of body weight over 30 minutes</description>
-    <bullet>Randomization with computer-generated blocks</bullet>
+    <bullet>Time between hospital arrival and randomization: 55 minutes (median)</bullet>
     <bullet>Age 66 years (mean)</bullet>
     <bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
     <bullet>Lactate 7.4 mmol/L (mean)</bullet>
@@ -59,7 +57,6 @@
   <design>Randomized controlled trial</design>
   <patients total="224">
     <description>septic shock</description>
-    <bullet>Randomization details not provided</bullet>
     <bullet>Age 68 years (mean)</bullet>
     <bullet>Mean ateral pressure 56 mmHg (mean)</bullet>
     <bullet>Lactate 7.1 mmol/L (mean)</bullet>
@@ -85,7 +82,6 @@
   <design>Randomized controlled trial</design>
   <patients total="203">
     <description>septic shock</description>
-    <bullet>Randomization details not provided</bullet>
     <bullet>Age unknown</bullet>
     <bullet>Mean blood pressure unknown</bullet>
     <bullet>Lactate unknown</bullet>
@@ -111,7 +107,6 @@
 <design>Randomized controlled trial</design>
 <patients total="123">
   <description>severe sepsis</description>
-  <bullet>Randomization details not provided</bullet>
   <bullet>Age unknown</bullet>
   <bullet>Mean blood pressure unknown</bullet>
   <bullet>Lactate unknown</bullet>
@@ -137,7 +132,6 @@
   <design>Randomized controlled trial</design>
   <patients total="303">
     <description>severe sepsis or septic shock</description>
-    <bullet>Randomization details not provided</bullet>
     <bullet>Age 68 years (mean)</bullet>
     <bullet>Mean arterial pressure unknown</bullet>
     <bullet>Lactate unknown</bullet>
@@ -163,8 +157,7 @@
   <design>Randomized controlled trial</design>
   <patients total="439">
     <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 30 minutes</description>
-    <bullet>Randomization computer generated</bullet>
-    <bullet>Time lapse presentation to emergency room and randomization: 197 minutes (mean or median not specified)</bullet>
+    <bullet>Time between hospital arrival and randomization: 197 minutes (mean or median not specified)</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
@@ -192,8 +185,7 @@
   <design>Randomized controlled trial</design>
   <patients total="1591">
     <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics</description>
-    <bullet>Randomization centrally generated</bullet>
-    <bullet>Time lapse presentation to emergency room and randomization (includes receiving antbiotics): 168 minutes (median)</bullet>
+    <bullet>Time between hospital arrival and randomization (includes receiving antbiotics): 168 minutes (median)</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
     <bullet>Lactate 6.6 mmol/L (mean)</bullet>
