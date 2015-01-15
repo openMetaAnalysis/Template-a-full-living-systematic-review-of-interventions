@@ -2,7 +2,7 @@
 <included>
 <!-- start of a new study -->
 <study>
-  <citation year="1992" pmid="1623756" nct="" journal_abbrev="Chest">Tuchschmidt</citation>
+  <citation year="1992" pmid="1623756" trialregistration="" journal_abbrev="Chest">Tuchschmidt</citation>
   <design>Randomized controlled trial</design>
   <patients total="51">
     <description>septic shock</description>
@@ -22,12 +22,12 @@
     <bullet>Fluid replacement: details not reported</bullet>
   </comparison>
   <outcome>
-    <bullet type='primary'>Mortality at 14 days</bullet>
+    <bullet type="primary">Mortality at 14 days</bullet>
   </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2001" pmid="11794169" nct="" journal_abbrev="N Engl J Med">Rivers</citation>
+  <citation year="2001" pmid="11794169" trialregistration="" journal_abbrev="N Engl J Med">Rivers</citation>
   <design>Randomized controlled trial</design>
   <patients total="263">
     <description>sepsis or septic shock. Hypotension or serum lactate 4 mmol/L or more after 20 to 30 ml per kilogram of body weight over 30 minutes</description>
@@ -48,12 +48,12 @@
     <bullet>Fluid replacement: 3499 mL over 6 hours (may include pre-randomization)</bullet>
   </comparison>
   <outcome>
-    <bullet type='primary'>Mortality in hospital</bullet>
+    <bullet type="primary">Mortality in hospital</bullet>
   </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2006" pmid="17117128" nct="" journal_abbrev="Shock">Lin</citation>
+  <citation year="2006" pmid="17117128" trialregistration="" journal_abbrev="Shock">Lin</citation>
   <design>Randomized controlled trial</design>
   <patients total="224">
     <description>septic shock</description>
@@ -73,12 +73,12 @@
     <bullet>Fluid replacement: 5011 mL during the period of persistent shock</bullet>
   </comparison>
   <outcome>
-    <bullet type='primary'>Mortality in hospital</bullet>
+    <bullet type="primary">Mortality in hospital</bullet>
   </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2007" pmid="17207356" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">He</citation>
+  <citation year="2007" pmid="17207356" trialregistration="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">He</citation>
   <design>Randomized controlled trial</design>
   <patients total="203">
     <description>septic shock</description>
@@ -98,12 +98,12 @@
     <bullet>Fluid replacement: details not reported</bullet>
   </comparison>
   <outcome>
-  <bullet type='primary'>Mortality in hospital</bullet>
+  <bullet type="primary">Mortality in hospital</bullet>
   </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2007" pmid="18159013" nct="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao">Chen</citation>
+<citation year="2007" pmid="18159013" trialregistration="" journal_abbrev="Nan Fang Yi Ke Da Xue Xue Bao">Chen</citation>
 <design>Randomized controlled trial</design>
 <patients total="123">
   <description>severe sepsis</description>
@@ -123,12 +123,12 @@
   <bullet>Fluid replacement: details not reported</bullet>
 </comparison>
 <outcome>
-<bullet type='primary'>Mortality in ICU</bullet>
+<bullet type="primary">Mortality in ICU</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2010" pmid="20594464" nct="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early Goal-Directed Therapy Collaborative Group of Zhejiang Province</citation>
+  <citation year="2010" pmid="20594464" trialregistration="" journal_abbrev="Zhongguo Wei Zhong Bing Ji Jiu Yi Xue">Early Goal-Directed Therapy Collaborative Group of Zhejiang Province</citation>
   <design>Randomized controlled trial</design>
   <patients total="303">
     <description>severe sepsis or septic shock</description>
@@ -148,12 +148,12 @@
     <bullet>Fluid replacement: details not reported</bullet>
   </comparison>
   <outcome>
-  <bullet type='primary'>Mortality in ICU</bullet>
+  <bullet type="primary">Mortality in ICU</bullet>
   </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="24635773" nct="NCT00510835" journal_abbrev="N Engl J Med">ProCESS</citation>
+  <citation year="2014" pmid="24635773" trialregistration="NCT00510835" journal_abbrev="N Engl J Med">ProCESS</citation>
   <design>Randomized controlled trial</design>
   <patients total="439">
     <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 30 minutes</description>
@@ -176,12 +176,12 @@
     <bullet>Central venous catheterization: 58% (within 6 hours)</bullet>
   </comparison>
   <outcome>
-  <bullet type='primary'>Mortality in hospital</bullet>
+  <bullet type="primary">Mortality in hospital</bullet>
   </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-  <citation year="2014" pmid="25272316" nct="NCT00975793" journal_abbrev="N Engl J Med">ARISE</citation>
+  <citation year="2014" pmid="25272316" trialregistration="NCT00975793" journal_abbrev="N Engl J Med">ARISE</citation>
   <design>Randomized controlled trial</design>
   <patients total="1591">
     <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics</description>
@@ -204,8 +204,8 @@
     <bullet>Central venous catheterization: 62% (within 6 hours)</bullet>
   </comparison>
   <outcome>
-    <bullet type='primary'>Mortality 90 days</bullet>
-    <bullet type='secondary'>Mortality in hospital (used in current meta-analysis)</bullet>
+    <bullet type="primary">Mortality 90 days</bullet>
+    <bullet type="secondary">Mortality in hospital (used in current meta-analysis)</bullet>
   </outcome>
 </study>
 <!-- Leave this bottom line -->
