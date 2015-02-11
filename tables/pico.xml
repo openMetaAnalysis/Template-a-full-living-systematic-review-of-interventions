@@ -5,7 +5,7 @@
   <citation year="1992" pmid="1623756" trialregistration="" journal_abbrev="Chest">Tuchschmidt</citation>
   <design>Randomized controlled trial</design>
   <patients total="51">
-    <description>septic shock</description>
+    <description>septic shock recruited from uncertain clinical sites</description>
     <bullet>Age 51 years (mean)</bullet>
     <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
@@ -30,7 +30,7 @@
   <citation year="2001" pmid="11794169" trialregistration="" journal_abbrev="N Engl J Med">Rivers</citation>
   <design>Randomized controlled trial</design>
   <patients total="263">
-    <description>sepsis or septic shock. Hypotension or serum lactate 4 mmol/L or more after 20 to 30 ml per kilogram of body weight over 30 minutes</description>
+    <description>sepsis or septic shock in the Emergency Department. Hypotension or serum lactate 4 mmol/L or more after 20 to 30 ml per kilogram of body weight over 30 minutes</description>
     <bullet>Time between hospital arrival and randomization: 55 minutes (median)</bullet>
     <bullet>Age 66 years (mean)</bullet>
     <bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
@@ -56,7 +56,7 @@
   <citation year="2006" pmid="17117128" trialregistration="" journal_abbrev="Shock">Lin</citation>
   <design>Randomized controlled trial</design>
   <patients total="224">
-    <description>septic shock</description>
+    <description>septic shock in the Emergency Department or the Medical Intensive Care Unit</description>
     <bullet>Age 68 years (mean)</bullet>
     <bullet>Mean ateral pressure 56 mmHg (mean)</bullet>
     <bullet>Lactate 7.1 mmol/L (mean)</bullet>
@@ -156,7 +156,7 @@
   <citation year="2014" pmid="24635773" trialregistration="NCT00510835" journal_abbrev="N Engl J Med">ProCESS</citation>
   <design>Randomized controlled trial</design>
   <patients total="439">
-    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 30 minutes</description>
+    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 30 minutes in the Emergency Department</description>
     <bullet>Time between hospital arrival and randomization: 197 minutes (mean or median not specified)</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
@@ -184,7 +184,7 @@
   <citation year="2014" pmid="25272316" trialregistration="NCT00975793" journal_abbrev="N Engl J Med">ARISE</citation>
   <design>Randomized controlled trial</design>
   <patients total="1591">
-    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics</description>
+    <description>hypotension or serum lactate 4 mmol/L or more after 1000 mL intravenous fluids over 60 minutes and intravenous antibiotics in the Emergency Department</description>
     <bullet>Time between hospital arrival and randomization (includes receiving antbiotics): 168 minutes (median)</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
