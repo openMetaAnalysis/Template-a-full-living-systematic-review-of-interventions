@@ -6,7 +6,7 @@ Receive notifications about possible studies when results posted at [ClinicalTri
 Search strategy is **early goal random* | Studies With Results | Interventional Studies | septic shock | mortality **:
 
 * [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=early+goal+random*&recr=&rslt=With&type=Intr&cond=septic+shock&intr=&titles=&outc=mortality&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=)
-* Receive updates by [email](ttps://feedburner.google.com/fb/a/mailverify?uri=clinicaltrials_egdtforsepticshock&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/clinicaltrials_egdtforsepticshock)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=clinicaltrials_egdtforsepticshock&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/clinicaltrials_egdtforsepticshock)
 
 Receive notifications about possible studies when indexed at PubMed
 -------------------------
