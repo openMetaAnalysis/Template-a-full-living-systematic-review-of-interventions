@@ -1,4 +1,4 @@
-Keep up with this topic - **Under construction**
+Keep up with this topic
 =========================
 
 Receive notifications about possible studies when results posted at [ClinicalTrials.gov](http://clinicaltrials.gov)
@@ -13,7 +13,7 @@ Receive notifications about possible studies when indexed at PubMed
 Search strategy is **early AND goal AND random* AND septic shock ** (publication types not used as search terms in order to avoid missing trials awaiting indexing by PubMed):
 
 * [Search now and test strategy at PubMed](http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=early%20AND%20goal%20AND%20random*%20AND%20septic%20shock)
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=HypertonicSaline-Bonchiolitis) or [RSS](http://feeds.feedburner.com/HypertonicSaline-Bonchiolitis)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=PubmedEgdtForSevereSepsis&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/PubmedEgdtForSevereSepsis)
 
 Receive notifications about PubMed citations when added to this review
 -------------------------
