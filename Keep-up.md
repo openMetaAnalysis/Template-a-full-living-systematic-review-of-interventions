@@ -17,4 +17,4 @@ Search strategy is **early AND goal AND random* AND septic shock ** (publication
 
 Receive notifications about PubMed citations when added to this review
 -------------------------
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=openMetaAnalysis-HypertonicSalineForBronchiolitis) or [RSS](http://paid.feed43.com/hypertonicsalinebronchiolitis.xml)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=OpenmetaanalysisEgdtForSevereSepsis&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/OpenmetaanalysisEgdtForSevereSepsis)
