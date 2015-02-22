@@ -15,11 +15,13 @@
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
+    <bullet>APACHE II score: 22</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
+    <bullet>APACHE II score: 21</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality at 14 days</bullet>
@@ -41,11 +43,13 @@
     <bullet>Blood transfusion: 64%</bullet>
     <bullet>Antibiotic administration: 86% over six hours</bullet>
     <bullet>Fluid replacement: 4981 mL over 6 hours (may include pre-randomization)</bullet>
+    <bullet>APACHE II score: 21.4</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 19%</bullet>
     <bullet>Antibiotic administration: 92% over six hours</bullet>
     <bullet>Fluid replacement: 3499 mL over 6 hours (may include pre-randomization)</bullet>
+    <bullet>APACHE II score: 20.4</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality in hospital</bullet>
@@ -141,11 +145,13 @@
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
+    <bullet>APACHE II score: 23.5</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
+    <bullet>APACHE II score: 21.8</bullet>
   </comparison>
   <outcome>
   <bullet type="primary">Mortality in ICU</bullet>
@@ -168,12 +174,14 @@
     <bullet>Antibiotic administration: 98% by six hours</bullet>
     <bullet>Fluid replacement: 2805 mL over 6 hours</bullet>
     <bullet>Central venous catheterization: 94% (within 6 hours)</bullet>
+    <bullet>APACHE II score: 20.7</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 8%</bullet>
     <bullet>Antibiotic administration: 97% by six hours</bullet>
     <bullet>Fluid replacement: 3285 mL over 6 hours</bullet>
     <bullet>Central venous catheterization: 58% (within 6 hours)</bullet>
+    <bullet>APACHE II score: 20.7</bullet>
   </comparison>
   <outcome>
   <bullet type="primary">Mortality in hospital</bullet>
@@ -196,12 +204,14 @@
     <bullet>Antibiotic administration: 100% by 2.8 hrs</bullet>
     <bullet>Fluid replacement: 1964 mL over six hours</bullet>
     <bullet>Central venous catheterization: 90% (within 6 hours)</bullet>
+    <bullet>APACHE II score: 15.4</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 7%</bullet>
     <bullet>Antibiotic administration: 100% by 2.7 hrs</bullet>
     <bullet>Fluid replacement: 1713 mL over six hours</bullet>
     <bullet>Central venous catheterization: 62% (within 6 hours)</bullet>
+    <bullet>APACHE II score: 15.8</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality 90 days</bullet>
