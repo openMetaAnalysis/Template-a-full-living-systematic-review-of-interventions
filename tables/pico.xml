@@ -36,6 +36,7 @@
     <bullet>Time between hospital arrival and randomization: 55 minutes (median)</bullet>
     <bullet>Age 66 years (mean)</bullet>
     <bullet>Mean blood pressure 75 mmHg  (mean)</bullet>
+    <bullet>APACHE II score: 20.9</bullet>
     <bullet>Lactate 7.4 mmol/L (mean)</bullet>
     <bullet>Bacteremia 35%</bullet>
   </patients>
@@ -43,13 +44,11 @@
     <bullet>Blood transfusion: 64%</bullet>
     <bullet>Antibiotic administration: 86% over six hours</bullet>
     <bullet>Fluid replacement: 4981 mL over 6 hours (may include pre-randomization)</bullet>
-    <bullet>APACHE II score: 21.4</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 19%</bullet>
     <bullet>Antibiotic administration: 92% over six hours</bullet>
     <bullet>Fluid replacement: 3499 mL over 6 hours (may include pre-randomization)</bullet>
-    <bullet>APACHE II score: 20.4</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality in hospital</bullet>
@@ -138,6 +137,7 @@
     <description>severe sepsis or septic shock</description>
     <bullet>Age 68 years (mean)</bullet>
     <bullet>Mean arterial pressure unknown</bullet>
+    <bullet>APACHE II score: 22.7</bullet>
     <bullet>Lactate unknown</bullet>
     <bullet>Bacteremia unknown</bullet>
   </patients>
@@ -145,13 +145,11 @@
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
-    <bullet>APACHE II score: 23.5</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
-    <bullet>APACHE II score: 21.8</bullet>
   </comparison>
   <outcome>
   <bullet type="primary">Mortality in ICU</bullet>
@@ -166,6 +164,7 @@
     <bullet>Time between hospital arrival and randomization: 197 minutes (mean or median not specified)</bullet>
     <bullet>Age 60 years (mean)</bullet>
     <bullet>Systolic blood pressure 101 mmHg (mean)</bullet>
+    <bullet>APACHE II score: 20.8</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
     <bullet>Bacteremia 30%</bullet>
   </patients>
@@ -174,14 +173,12 @@
     <bullet>Antibiotic administration: 98% by six hours</bullet>
     <bullet>Fluid replacement: 2805 mL over 6 hours</bullet>
     <bullet>Central venous catheterization: 94% (within 6 hours)</bullet>
-    <bullet>APACHE II score: 20.70</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 8%</bullet>
     <bullet>Antibiotic administration: 97% by six hours</bullet>
     <bullet>Fluid replacement: 3285 mL over 6 hours</bullet>
     <bullet>Central venous catheterization: 58% (within 6 hours)</bullet>
-    <bullet>APACHE II score: 20.7</bullet>
   </comparison>
   <outcome>
   <bullet type="primary">Mortality in hospital</bullet>
@@ -196,6 +193,7 @@
     <bullet>Time between hospital arrival and randomization (includes receiving antbiotics): 168 minutes (median)</bullet>
     <bullet>Age 62.9 years (mean)</bullet>
     <bullet>Mean blood pressure 79.2 mmHg (mean)</bullet>
+    <bullet>APACHE II score: 15.6</bullet>
     <bullet>Lactate 6.6 mmol/L (mean)</bullet>
     <bullet>Bacteremia 38%</bullet>
   </patients>
@@ -204,14 +202,12 @@
     <bullet>Antibiotic administration: 100% by 2.8 hrs</bullet>
     <bullet>Fluid replacement: 1964 mL over six hours</bullet>
     <bullet>Central venous catheterization: 90% (within 6 hours)</bullet>
-    <bullet>APACHE II score: 15.4</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: 7%</bullet>
     <bullet>Antibiotic administration: 100% by 2.7 hrs</bullet>
     <bullet>Fluid replacement: 1713 mL over six hours</bullet>
     <bullet>Central venous catheterization: 62% (within 6 hours)</bullet>
-    <bullet>APACHE II score: 15.8</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality 90 days</bullet>
