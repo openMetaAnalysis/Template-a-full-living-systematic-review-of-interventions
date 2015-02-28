@@ -8,6 +8,7 @@
     <description>septic shock recruited from uncertain clinical sites</description>
     <bullet>Age 51 years (mean)</bullet>
     <bullet>Mean blood pressure 74 mmHg (mean)</bullet>
+    <bullet>APACHE II score: 22</bullet>
     <bullet>Lactate 4.9 mmol/L (mean)</bullet>
     <bullet>Bacteremia 57%</bullet>
   </patients>
@@ -15,13 +16,11 @@
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
-    <bullet>APACHE II score: 22</bullet>
   </intervention>
   <comparison>Usual care
     <bullet>Blood transfusion: details not reported</bullet>
     <bullet>Antibiotic administration: details not reported</bullet>
     <bullet>Fluid replacement: details not reported</bullet>
-    <bullet>APACHE II score: 21</bullet>
   </comparison>
   <outcome>
     <bullet type="primary">Mortality at 14 days</bullet>
