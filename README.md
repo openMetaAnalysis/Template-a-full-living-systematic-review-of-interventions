@@ -1,5 +1,6 @@
 Template a full living systematic-review of interventions
 =================================
+[test](http://openmetaanalysis.github.io/ViewerJS/#)
 
 **[Click here](
 http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
@@ -20,6 +21,8 @@ Text files:
 * [PICO table](../../tree/gh-pages/tables/pico.xml)
 * [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
 * [PRISMA files](../master/files/PRISMA)
+* [PICO and Bias tables (word processor versions)](../master/files/study-details) (links to master)
+* [PICO and Bias tables (word processor versions)](../../tree/gh-pages/study-details) (links to gh-pages)
 
 Images:
 * [Forest plots](../master/files/forest-plots)
