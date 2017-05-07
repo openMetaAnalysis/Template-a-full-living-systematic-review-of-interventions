@@ -1,7 +1,5 @@
 Template a full living systematic-review of interventions
 =================================
-[test](http://openmetaanalysis.github.io/ViewerJS/#)
-
 **[Click here](
 http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
 ) to see the meta-analysis.**
