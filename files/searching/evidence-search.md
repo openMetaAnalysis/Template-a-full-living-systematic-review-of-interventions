@@ -44,7 +44,7 @@ Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuv
  * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
 
 
-### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
-Mehta et al. 
+### Searching 'random*' within the highly cited studies using Google Scholar
+Mehta et al. (search date 4/21/2017)
 * [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
 * [x additional studies found](https://pubmed.gov/25503625,27045252)
