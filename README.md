@@ -12,7 +12,9 @@ http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-in
 * Open an [issue](../../issues/new)
 
 **If you want to update this meta-analysis:**
+
 [Suggested steps](http://tinyurl.com/openMetaAnalysis-steps)
+
 Text files:
 * [Clinical summary and references](../../tree/gh-pages/index.html)
 * [Data tables](../master/files/data)
