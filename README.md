@@ -5,14 +5,14 @@ http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-in
 ) to see the meta-analysis.**
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
-* [Subscribe by email or RSS](files/searching/Keep-up.md)
+* [Subscribe by email or RSS](files/searching/Keep-up.md) (under construction)
 
 **If you want to comment on this meta-analysis:**
 * Contact a [contributor](../../network/members) if you need access
 * Open an [issue](../../issues/new)
 
 **If you want to update this meta-analysis:**
-
+[Suggested steps](http://tinyurl.com/openMetaAnalysis-steps)
 Text files:
 * [Clinical summary and references](../../tree/gh-pages/index.html)
 * [Data tables](../master/files/data)
