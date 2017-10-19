@@ -18,14 +18,12 @@ http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-in
 Text files:
 * [Clinical summary and references](../../tree/gh-pages/index.html)
 * [Data tables](../master/files/data)
-* [PICO table](../../tree/gh-pages/tables/pico.xml)
-* [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
 * [PRISMA files](../master/files/PRISMA)
-* [PICO and Bias tables (word processor versions)](../master/files/study-details) (links to master)
+* [PICO and Bias tables (word processor versions)](../master/files/study-details)
 
 Images:
 * [Forest plots](../master/files/forest-plots)
-* [GRADE Profiles](../master/files/GRADE-Profiles)
+* [GRADE Profiles](../master/files/GRADE-profiles)
 * [Metaregression plots](../master/files/metaregression) (optional)
 * [Network plots](../master/files/network) (optional)
 
