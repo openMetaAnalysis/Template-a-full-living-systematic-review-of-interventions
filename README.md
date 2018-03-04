@@ -20,6 +20,9 @@ Text files:
 * [Data tables](../master/files/data)
 * [PRISMA files](../master/files/PRISMA)
 * [PICO and Bias tables (word processor versions)](../master/files/study-details)
+* [Reconciliation tables (word processor versions)](../master/files/reconciliation-tables)
+
+https://github.com/openMetaAnalysis/Template-a-full-living-systematic-review-of-interventions/tree/master/files/reconciliation-tables
 
 Images:
 * [Forest plots](../master/files/forest-plots)
